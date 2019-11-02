@@ -1,4 +1,4 @@
-const express = require('require')
+const express = require('express')
 
 // use process.env variables to keep private variables,
 require('dotenv').config()
